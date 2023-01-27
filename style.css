@@ -1,0 +1,33 @@
+.text-area {
+	border: none;
+	color: #0A3871;
+	margin-top: 90px;
+	text-transform: lowercase;
+}
+
+
+body {
+	background: #D8DFE8
+}
+
+h1 { 
+    text-align:left;
+	color: #0A3871;
+}
+
+
+
+p {
+	text-align: center;
+	
+}
+
+
+em strong {
+	color: #0A3871;
+}
+
+
+
+
+
