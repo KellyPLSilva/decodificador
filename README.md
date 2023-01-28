@@ -46,14 +46,18 @@ Cursos Alura:
 
 
 
-Além disso, utilizei as ferramentas [Trello](https://trello.com/), [Figma](https://www.figma.com/) e Discord. Foi incrível me sentir fazendo parte de um time de desenvolvimento. 
+Além disso, utilizei as ferramentas [Trello](https://trello.com/), [Figma](https://www.figma.com/) e Discord. 
 
-Obrigado   
+Foi otímo saber que posso fazer parte de um time de desenvolvimento. 
+
+Obrigada.   
 
  <div style="display:flex;" align="center">
+
+ <img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211139Prancheta_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"/>
  
-   <h2>Badge referente ao termino do Challenge Turma 4</h2>
-   <img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211139Prancheta_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"/>
+   <h2>Badge referente ao termino do Challenge Turma 4 </h2>
+   
  </div>
 
    <div style="display:flex;" align="center">
